@@ -28,3 +28,6 @@ balance = (left, right) => {
     } else return "Balance"
 
 }
+
+
+//console.log(balance())
